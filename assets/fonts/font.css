@@ -4,4 +4,9 @@ src: url('/assets/fonts/nintendo-nes-font.ttf') format('truetype'); /* Specify t
 font-weight: normal; /* Optional: Define font weight */
 font-style: normal; /* Optional: Define font style */
 }
+body {
 font-family: 'Pixel', sans-serif;
+}
+h1 {
+font-family: 'Pixel', serif;
+}
