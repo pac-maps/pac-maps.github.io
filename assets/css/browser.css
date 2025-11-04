@@ -1,0 +1,12 @@
+@font-face {
+font-family: Pixel;
+src: url('../assets/fonts/nintendo-nes-font.ttf');
+font-weight: normal;
+font-style: normal;
+}
+body {
+font-family: Pixel, sans-serif;
+}
+h1 {
+font-family: Pixel, serif;
+}
