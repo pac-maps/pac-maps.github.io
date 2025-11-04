@@ -4,7 +4,7 @@ src: url('../assets/fonts/nintendo-nes-font.ttf');
 font-weight: normal;
 font-style: normal;
 }
-body {
+p {
 font-family: Pixel, sans-serif;
 }
 h1 {
