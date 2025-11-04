@@ -10,3 +10,10 @@ font-family: Pixel, sans-serif;
 h1 {
 font-family: Pixel, serif;
 }
+button {
+  background: #1a73e8;
+  border-radius: 4px;
+  padding: 8px 16px;
+  cursor: pointer;
+  color: #ffffff;
+}
